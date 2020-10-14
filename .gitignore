@@ -325,6 +325,7 @@ dist
 **/*.back.*
 
 node_modules
+.vscode
 
 *.sublime*
 
