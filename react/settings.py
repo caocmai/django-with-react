@@ -139,6 +139,7 @@ STATICFILES_DIRS = [
     os.path.join(REACT_APP_DIR, 'build', 'static'),
 ]
 
+## This also works
 # STATICFILES_DIRS = [
 #     os.path.join(BASE_DIR, 'reactapp/build/static')
 # ]
