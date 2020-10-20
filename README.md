@@ -5,7 +5,7 @@ This is my first project implementing React in a Django project. This Django+Rea
 Must have [Django v3.1.1](https://docs.djangoproject.com/en/3.1/topics/install/) and [Node.js v12.19.0](https://nodejs.org/en/) installed, preferably in a virtual environment(virtualENV or pipENV)
 
 ## To Run Locally
-Once you clone the project navigate to the `reactapp` folder to install npm packages and build the React file run:
+Once you clone the project navigate to the `reactapp` folder to install npm packages and build the React file by executing:
 ```
 $ npm install
 $ npm run build
